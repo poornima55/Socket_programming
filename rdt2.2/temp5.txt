@@ -1,0 +1,3 @@
+hi udp protocol. I am rdt2.2. A NAK free protocol.
+This includes checksum calculation.
+Also the sequence number has to be added as a header info.
